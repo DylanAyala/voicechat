@@ -53,5 +53,4 @@ class Server:
                 c.close()
 
 
-server2 = Server()
-
+server = Server()
